@@ -13,7 +13,7 @@
 
 ## 快速开始
 
-1. 下载仓库中的 `cnblog_uploader.exe` 和已脱敏的 `config.json`。
+1. 从 [Releases](https://github.com/kasinglee/marktext-cnblogs-uploader/releases) 下载 `cnblog_uploader.exe`，并下载仓库中的已脱敏 `config.json`。
 2. 按下方说明填写 `config.json`。
 3. 在 MarkText 中选择该目录下的 `cnblog_uploader.exe`。
 
