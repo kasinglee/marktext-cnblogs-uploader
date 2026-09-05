@@ -1,6 +1,6 @@
 # MarkText 博客园图片上传器
 
-将 MarkText 中的本地图片直接上传到博客园，并把图片 URL 返回给 [MarkText](https://github.com/marktext/marktext)。
+将 [MarkText](https://github.com/marktext/marktext) 中的本地图片直接上传到博客园，并把图片 URL 返回给 MarkText。
 
 当前版本：`v1.0.0`
 
